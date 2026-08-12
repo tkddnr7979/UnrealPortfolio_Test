@@ -74,7 +74,12 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-ProjectTest/x64
-ProjectTest/ProjectTest/x64
-ProjectTest/ProjectTest/Debug
-ProjectTest/ProjectTest/Release
+ProjectTest/
+
+LittleTree/.vs
+LittleTree/Binaries
+LittleTree/DerivedDataCache
+LittleTree/Intermediate
+LittleTree/Saved
+LittleTree/.vsconfig
+LittleTree/LittleTree.sln
